@@ -2,7 +2,7 @@
 :MENU
 cls
 @echo *****************************************
-@echo *       {C4lypze} Control Panel         *
+@echo *       Test Control Panel         *
 @echo *****************************************
 @echo *                                       *
 @echo * Options:                              *
